@@ -1,3 +1,5 @@
 #Introduction
 
-Due to the popularity on X, I wanted to build it and turn it into a decent product, gathering ideas for now.
+![](./middleman.gif)
+
+DOM manipulation with drag, `mousedown`, event across multiple browser windows.
