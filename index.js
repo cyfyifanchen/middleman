@@ -70,7 +70,7 @@ card.addEventListener('mousedown', moveCard)
 function init() {
   const url = new URL(location.href)
   const type = url.searchParams.get('type') || 'Q'
-  card.src = `./${type}.png`
+  card.src = `./${type}.svg`
 }
 
 // Call the initialization function
