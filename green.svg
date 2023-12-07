@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380.98 73.47">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Prata-Regular, Prata;
+        font-size: 53.6px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Page_1" data-name="Page 1" fill="#000000">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path class="cls-2" d="m52.78,45.71h0l-13.2,7.62-13.19,7.62h0s-13.19-7.62-13.19-7.62L0,45.71h0V15.24l.03-.02,13.17-7.6L26.39,0l.06.04,13.13,7.58,13.2,7.62v30.47h0Zm-26.39-5.08l-4.4-2.54-4.39-2.53h-.01s8.8-5.09,8.8-5.09l8.8-5.08,8.8-5.08h0l-8.8-5.08-8.75-5.05-.05-.03-8.8,5.08-8.77,5.06-.03.02h0v20.31h0s8.79,5.08,8.79,5.08l8.8,5.08h.01s8.78-5.08,8.78-5.08l8.8-5.08h0l-8.8-5.08h0l-4.4,2.54-4.37,2.53h-.02Zm0-10.16h.02s8.78-5.08,8.78-5.08l-4.4-2.54-4.36-2.51-.04-.03-4.4,2.54-4.38,2.53h-.02s8.8,5.09,8.8,5.09h0Z"/>
+      <text class="cls-1" transform="translate(76.03 54.07)"><tspan x="0" y="0">Elliott Chen</tspan></text>
+    </g>
+  </g>
+</svg>
